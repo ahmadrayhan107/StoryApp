@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+
+    <string name="welcome">Welcome to The Story App!</string>
+    <string name="description">Sharing your knowledge about Information Technology and Digital Industry</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="registerTitle">Please fill the form below!</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="loginTitle">Please Login!</string>
+    <string name="logout">Logout</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="hint">Description</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="imageDescription">Image Description</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="location">Location</string>
+    <string name="myLocation">My Location</string>
+    <string name="retry">Try Again</string>
+</resources>
